@@ -1,0 +1,7 @@
+{
+  "name": "solid-tailwind-component-lib-dep-issue",
+  "workspaces": [
+    "ui",
+    "website"
+  ]
+}
